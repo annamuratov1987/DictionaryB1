@@ -1,0 +1,303 @@
+approach	yondashmoq
+bring up	tarbiyalamoq
+babysitting	bolaga qarash
+catch a cold	shamollamoq
+eager	intiluvchan
+have a fever	issig'I bo'lmoq
+important	muhim
+legal	qonuniy
+make a choice	tanlamoq
+recover	qayta tiklanmoq
+science	fan
+speciality	mutahassislik
+take care	g'amho'rlik qilmoq
+application	ariza
+experience	tajriba
+employee	ishchi
+employer	ish beruvchi
+hard working	mehnatsevar
+interviewee	suhbat[intervyu]beruvchi
+interviewer	suhbat[intervyu]oluvchi
+part-time	to'liq band bo'lmagan
+responsible	ma'sulyatli
+salary	maosh
+slang	jargon
+smart	aqlli
+swear	ont ichmoq
+appearance	tashqi ko'rinish
+avoid	qochmoq, uzoq turmoq
+behavior	hulq
+body language	harakatlar tili
+carry	olib yurmoq
+deadline	muddat oxiri
+discipline	intizom; biror fan sohasi
+efficient	samarali
+executive	ijro etuvchi
+gossip	g'iybat
+grocery	oziq-ovqat
+organise	tashkil qilmoq
+pebble	shag'al tosh
+pick up	ko'tarmoq
+pour	to'kmoq,quymoq
+priority	ustunlik
+roll	o'ramoq,aylantirmoq
+sand	qum
+stuff	buyum
+spend	o'tkazmoq;sarflamoq
+schedule	jadval
+update	yangilamoq
+unanimous	yakdil
+activity	mashg'ulot
+actually	asosan
+benefit	foyda
+diary	kundalik
+guess	taxmin qilmoq
+healthy	sog'lom
+improvement	o'sish,takomillashish
+modern	zamonaviy
+move	harakatlantirmoq
+multitasking	topshiriqni ko'paytirish
+organise	uyushtirmoq
+progress	rivojlanish
+reminder	eslatma
+successful	omadli
+task	topshiriq
+try	harakat qilmoq
+around	atrofida,yaqin
+around	tahminan
+busy	band
+borrow	qarzolmoq,olib turmoq
+catch	ulgurmoq
+invitation	taklif[+noma]
+kill	oxiriga yetkazmoq
+line	saf,qator
+measure	o'lchamoq
+often	tez-tez
+pass	o'tmoq[imtihondan,testdan]
+rough	qo'pol;notekis
+save	tejamoq
+take	olmoq
+usually	odatda
+violin	skripka [cholg'u asbobi]
+administration	ma'muriyat
+attendant	xizmatchi
+accept	qabul qilmoq;rozi bo'lmoq
+amazing	hayratlanarli
+agree	qabul qilmoq;rozi bo'lmoq
+behave	o'zini tutmoq
+critical	tanqidiy
+empty	bo'sh[to'la bo'lmagan]
+exact	aniq,aynan
+hate	nafratlanmoq
+meaningful	ahamiyatli;ma'noli
+offend	aybli ish qilmoq
+portfolio	shahsning ishlari va o'zi haqida ma'lumotlar jamlanmasi; portfel
+purpose	maqsad
+rend	ajratmoq,ayirmoq
+remain	qolmoq
+rock	tebratmoq;sarosimaga solmoq
+swear	qasam ichmoq; so'kinmoq
+tower	minora
+trophy	sovrin
+turn	aylanmoq
+ashamed	tortinchoq;uyalgan
+contribute	taqdim qilmoq
+challenge	talab,chaqiriq
+drop	tushirib yubormoq
+feedback	xulosa;tahlil;tassurot
+grant	maqullamoq
+habit	odat
+ignore	e'tibor qilmaslik
+invent	yangilik yaratmoq
+independent	mustaqil
+improve	yaxshilamoq,mukammallashtirmoq
+management	boshqaruv
+mention	aytib o'tmoq
+occupy	shug'ullanmoq
+regard	e'tiborga olmoq
+reaction	ta'sirga javob berish
+relaxation	dam olish,bo'shashtirish
+relate	bo'g'liq bo'lmoq
+risk	tavakkal qilish,xavf
+scholarship	stipendiya
+throughout	har tomonlama
+throughout	davomida
+waste	isrof
+association	birlashma,tashkilot
+airplane	aeroplan,tayyora
+almost	deyarli
+background	daraja
+combination	birikma,tizim
+concentrate	diqqatini jamlamoq
+demonstration	namoyish
+delivery	yetkazilgan narsa
+freshman	birinchi kurs talabasi
+genius	daho
+hands-on	amaliy
+preference	afzal ko'rish;imtiyoz
+realize	amalga oshirmoq;anglamoq
+recite	yoddan aytib bermoq
+screen	ekran
+tactile	sezilarli
+visual	ko'rinib turadigan
+access	kirish yo'li[huquqi]
+appall	vahimaga solmoq
+assess	aniqlamoq;belgilamoq
+assignment	ish, vazifa; tayinlash
+compare	qiyoslamoq
+connection	aloqa,bog'liqlik
+distance	masofa
+estimate	baholamoq,hisoblamoq
+isolate	ajratib qo'ymoq
+local	mahalliy
+motivation	undovchi kuch,sabab
+multimedia	multimediadan foydalanilgan
+progress	yutuq,rivojlanish
+responsibility	ma'suliyat
+routine	doimiy ketma-ketlik
+rich	boy;unumdor
+suitable	mos,to'g'ri keladigan
+tutor	repititor
+account	qayd;hisobot
+accurate	aniq
+although	garchi,….bo'lsa ham
+apology	uzr
+available	mavjud,topib bo'ladigan;yaroqli
+argument	dalil;tortishuv
+arrive	yetib kelmoq
+awkward	uquvsiz;noqulay
+casual	tasodifiy;kundalik
+correspond	mos kelmoq
+comic	kulgili
+due	munosib;qarzga olingan
+edit	tahrir qilmoq
+engage	jalb etmoq;yollamoq,ish bermoq
+forward	olg'a;oldinga
+joke	joke
+kid	go'dak
+line	satr,misra
+regret	afsuslanish
+refer	murojaat qilmoq;havola etmoq
+remind	eslatmoq
+surprise	kutilmagan sovg'a[hodisa]
+serve	xizmat qilmoq
+activity	mashg'ulot
+attire	kiyim;tashqi ko'rinish
+curriculum	dastur
+direction	yo'nalish;tushuntirish
+education	ta'lim
+fluently	oson
+gain	erishmoq;orttirmoq
+gerund	gerundiy[fe'lning otlashgan shakli]
+nurse	hamshira
+position	holat;mavqe
+private	shaxsiy
+receptionist	qabulxona ma'muri
+reference	aloqa;tavsiyanoma beruvchi
+reliable	ishonchli
+sociable	dilkash
+trust	ishonmoq;tayanmoq
+amaze	hayron qoldirmoq
+amuse	ko'nglini ochmoq
+annoy	jahlini chiqarmoq
+bored	zerikarli
+confuse	chalkashtirmoq;qiyinlashtirmoq
+conviction	aybdor deb topish
+desire	orzu qilmoq,istamoq
+depress	ranjitmoq
+employ	ishga yollamoq
+expect	kutmoq
+felony	og'ir jinoyat
+license	ruxsat bermoq
+locate	joyini aniqlamoq;joylashtirmoq
+previous	oldingi
+satisfy	qoniqtirmoq
+specific	alohida;maxsus
+upgrade	malaka oshirmoq;rivojlantirmoq
+average	o'rtacha miqdorda
+bodily	moddiy;haqiqiy
+calculate	hisoblamoq
+condition	sharoit
+differentiate	farqni ko'r[sat]moq
+existential	hayotiy
+jealous	qizg'anchiq,rashkchi
+intelligence	aql,aqliy qobiliyat
+interpersonal	insonlararo
+intra-personal	ichki[shahsda]
+linguistic	lingvistik,tilshunoslikka oid
+logical	mantiqiy
+mathematical	matematik;hisob kitobni sevadigan
+musical	musiqiy;musiqasevar
+naturalistic	tabiatni sevuvchi
+pill	hapdori
+research	tadqiqot
+spatial	koinotga doir
+uniform	forma,rasmiy kiyim
+appear	ko'rinmoq;paydo bo'lmoq
+discover	bilib olmoq,kashf etmoq
+exhibit	ko'rgazmaga qo'ymoq
+especially	ayniqsa
+fiction	badiiy adabiyot;uydirma
+inspire	ruhlantirmoq
+mathematician	matemarik
+network	tarmoq
+original	asl;o'ziga xos
+pleasure	zavq
+revision	takrorlash,qayta ko'rib chiqish
+simulate	mug'ombirlik qilmoq
+subtitle	qo'shimcha sarlavha
+through	vositasida;orqali
+underground	yerosti
+underground	yashirin
+version	tahminiy fikr
+auditory	eshitish bilan bog'liq
+instruction	qo'llanma;ko'rsatma
+jigsaw	yig'iladigan rasmli boshqotirma
+hug	quchoqlamoq
+kinaesthetic	tegib,harakatlanish bilan bog'liq
+compile	to'plamoq[dalil]
+mark off	chegara qo'ymoq,belgilamoq
+maze	chalkash narsa
+rewrite	qayta yozmoq,yozib olmoq
+role-play	rol o'ynash
+memorise	eslab qolmoq
+aid	yordam
+spell	harflab aytmoq
+survey	ko'rik
+skillful	mahoratli
+prefer	afzal ko'rmoq
+puzzle	jumboq
+champion	chempion,g'olib
+chorus	xor
+commit	bajarmoq
+depend [on]	…ga bog'liq bo'lmoq
+different	turli,farqli
+distinctive	o'ziga xos,ajralib turadigan
+dream	tush;orzu
+figure out	aniqlamoq,topmoq
+focus on	diqqatini biror narsaga qaratmoq
+frustration	halokat
+fun	zavq
+healthcare	sog'liqni saqlash
+limitation	chegaralash
+religion	din
+rotate	aylan(tir)moq
+scream	baqirmoq
+slacker	yalqov
+together	birga
+virtual	virtual,xayoliy
+voice	ovoz
+achieve	erishmoq
+amicable	do'stona
+approximately	taxminan,chamasi
+award	mukofot berish
+contest	musobaqa; tortishuv
+double	juft, qo'shaloq
+federation	uyushma,federatsiya
+giant	ulkan
+participant	ishtirokchi
+quarter	chorak
+result	natija
+reporter	muxbir
+represent	namoyish qilmoq;ifodalamoq
+support	qo'llab quvvatlamoq

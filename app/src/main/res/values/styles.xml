@@ -1,11 +1,35 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
         <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <!--<item name="android:textColor">@color/appTextColor</item>-->
+        <!--<item name="android:textSize">@dimen/appTextSize</item>-->
     </style>
 
+    <style name="AppTheme.TextStyle">
+        <item name="android:textSize">@dimen/appTextSize</item>
+    </style>
+
+    <style name="AppTheme.TextStyle.FirstWord">
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+    </style>
+
+    <style name="AppTheme.TextStyle.SecondWord">
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="AppTheme.ImageStyle">    </style>
+
+    <style name="AppTheme.ImageStyle.SoundIcon">
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginTop">5dp</item>
+    </style>
 </resources>
